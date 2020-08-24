@@ -1,2 +1,2 @@
 # TitanCDN_Files
-Just Files
+Titan CDN‘s Static Files
